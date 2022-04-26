@@ -3,6 +3,8 @@
 ## What is this
 This repository contains an adaptation of the great board game "Magic Maze on Mars" for the digital whiteboard Miro. Using this Miro board the game can be played remotely with up to 6 players in the Browser (or the Miro Desktop App).
 
+<img src="screenshot_board_01.png" width="400">
+
 Original board game "Magic Maze On Mars": Author: Kasper Lapp / Publisher: Sit Down!
 Author and publisher gave their friendly permission to play and their this template non-commercially amonst the Agile community.
 See the actual Miro board for details about that permission.
